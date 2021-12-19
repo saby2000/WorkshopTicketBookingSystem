@@ -1,3 +1,4 @@
 # WorkshopTicketBookingSystem
 
 This application is intended to provide a solution for the NITC Workshop committee as well as the customers via this single portal.This will enable the NITC Workshop committee to set up an online database containing the information regarding the  workshop currently being held. The NITC Workshop ticket booking system is an interface provided to NITC students/teaching assistants enrolled and faculties of NITC to book tickets for Workshops being held within NITC campus.The registered and guest users are allowed to search for workshops,while only the registered users can book tickets for workshop.The NITC Workshop committee admin can add/update workshops to this portal.They can also view the details of all the booking made for a workshop.
+I have used Java in the backend and MySQl for querying the database.
